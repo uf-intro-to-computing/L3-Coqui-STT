@@ -1,4 +1,4 @@
-stt
+#stt
 pyaudio~=0.2.11
 webrtcvad~=2.0.10
 halo~=0.0.18
